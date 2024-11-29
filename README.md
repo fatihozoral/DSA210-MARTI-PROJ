@@ -80,28 +80,16 @@ The analysis will focus on the following key questions:
 1. Time Saved Using Scooters
  * Calculate the difference in time between walking and scooter rides:
 
-Time Saved (min) = Walking Time − Scooter Time
+     Time Saved (min) = Walking Time − Scooter Time
 
  * Assess how the time saved changes with distance.
 2. Cost Analysis
 
  * Calculate the cost per kilometer and per minute for scooter rides:
-Cost per km (₺/km)
-=
-Scooter Cost (₺)
-Scooter Distance (km)
-Cost per km (₺/km)= 
-Scooter Distance (km)
-Scooter Cost (₺)
-​
- 
-Cost per min (₺/min)
-=
-Scooter Cost (₺)
-Scooter Time (min)
-Cost per min (₺/min)= 
-Scooter Time (min)
-Scooter Cost (₺)
+
+     Cost per km (₺/km) = Scooter Cost(₺) / Scooter Distance(km)
+
+     Cost per min (₺/min) = Scooter Cost(₺) / Scooter Time(min)
 ​
  
  * Compare these costs to walking, which is effectively free.
@@ -109,15 +97,9 @@ Scooter Cost (₺)
 3. Walking vs. Scooter Usage
 
  * Quantify the trade-off between financial cost and time saved:
-Cost per Time Saved (₺/min)
-=
-Scooter Cost (₺)
-Time Saved (min)
-Cost per Time Saved (₺/min)= 
-Time Saved (min)
-Scooter Cost (₺)
+
+    Cost per time saved (₺/min) = Scooter Cost(₺) / Time Saved(min)
 ​
- 
  * Identify whether scooter usage is justified for specific distances.
 
 
