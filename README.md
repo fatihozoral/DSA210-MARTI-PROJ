@@ -102,5 +102,33 @@ The analysis will focus on the following key questions:
 ​
  * Identify whether scooter usage is justified for specific distances.
 
+## Findings
+
+1- Time Efficiency:
+
+ * Martı scooters significantly reduce travel time, especially for distances over 1 kilometer.
+ * On average, scooters saved me X minutes per ride compared to walking.
+
+2- Financial Cost:
+
+ * Scooter rides are notably more expensive than walking, with an average cost of Y₺/km.
+ * The cost per minute saved increases for shorter rides, making scooters less cost-efficient for short distances.
+
+3- Daily Behavior:
+
+ * Scooter usage correlates with a reduction in daily walking distances.
+
+## Limitations
+
+1. Data Limitations
+
+ * The analysis assumes a constant walking speed of 5 km/h, which may not accurately reflect real-world conditions.
+ * Martı data does not account for potential discounts or promotions, which could affect cost calculations.
+
+2. Personal Limitations
+
+ * As this analysis is based on personal transportation data, the findings may not generalize to other users.
+ * The project does not account for environmental or health benefits of walking
+
 
 
