@@ -46,6 +46,24 @@ Exported from the Martı app, this dataset includes:
 
 Based on publicly available metrics, the average walking speed for a healthy adult is approximately 5 km/h (or 12 minutes per kilometer). This data will be used to calculate the time it would have taken to walk the same distances as the scooter rides.
 
+## Data Processing
+
+The raw data requires preprocessing to enable meaningful comparisons between scooter usage and walking. The key steps include:
+
+1- Martı Scooter Data
+
+ * Convert ride durations and distances into consistent units.
+ * Calculate cost per kilometer and cost per minute for each ride.
+   
+2- Walking Data
+
+ * Use the average walking speed (5 km/h) to estimate the time it would have taken to walk the distances covered by Martı scooters.
+
+3- Combined Data
+
+ * Merge the scooter data with the walking data for direct comparisons.
+ * Calculate time saved and extra costs incurred by using scooters instead of walking.
+
 
 
 
