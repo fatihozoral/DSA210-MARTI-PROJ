@@ -9,13 +9,20 @@ This project analyzes my personal transportation data using Martı scooters, foc
 1-Motivation
 
 2-Tools
+
 3-Data Source
+
 4-Data Processing
+
 5-Data Visualizations
+
 6-Data Analysis
+
   * Time Saved Using Scooters
   * Cost Analysis of Scooter Usage
   * Walking vs. Scooter Comparisons
 7-Findings
+
 8-Limitations
+
 9-Future Work
