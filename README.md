@@ -31,4 +31,21 @@ This project analyzes my personal transportation data using Martı scooters, foc
 
 Transportation is an essential part of daily life, and finding efficient ways to travel can have significant impacts on both time and money. With Martı scooters becoming a popular mode of transportation in urban areas, this project aims to analyze whether using scooters instead of walking is a cost-efficient and time-saving option. The goal is to quantify the time saved by using scooters and evaluate the associated financial costs.
 
+## Data Source
+I am using two primary data sources:
+
+1-Martı Scooter Data
+
+Exported from the Martı app, this dataset includes:
+
+* Ride durations (minutes)
+* Distances traveled (kilometers)
+* Costs (₺)
+  
+2-Walking Reference Data
+
+Based on publicly available metrics, the average walking speed for a healthy adult is approximately 5 km/h (or 12 minutes per kilometer). This data will be used to calculate the time it would have taken to walk the same distances as the scooter rides.
+
+
+
 
