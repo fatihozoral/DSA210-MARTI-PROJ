@@ -7,7 +7,8 @@ This project analyzes my personal transportation data using Martı scooters, foc
 
 ## Table of Contents
 1-Motivation
-#2-Tools
+
+2-Tools
 3-Data Source
 4-Data Processing
 5-Data Visualizations
