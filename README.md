@@ -64,6 +64,18 @@ The raw data requires preprocessing to enable meaningful comparisons between sco
  * Merge the scooter data with the walking data for direct comparisons.
  * Calculate time saved and extra costs incurred by using scooters instead of walking.
 
+## Data Visualizations
+
+Key visualizations will be created to support the analysis, including:
+
+1- Time Saved vs. Distance Traveled: A scatter plot showing how much time was saved by using a scooter compared to walking.
+
+2- Cost Efficiency: Bar charts comparing cost per kilometer and per minute for scooter rides.
+
+3- Daily Summary: Line graphs showing total transportation time and costs for both modes of transportation.
+
+
+
 
 
 
