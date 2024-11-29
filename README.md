@@ -25,7 +25,7 @@ This project analyzes my personal transportation data using Martı scooters, foc
 
 8-Limitations
 
-9-Future Work
+9-Plan
 
 ## Motivation
 
