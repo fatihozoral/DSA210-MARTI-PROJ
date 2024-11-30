@@ -3,7 +3,7 @@
 ## Description
 
 Sabancı University CS210 Introduction to Data Science Course Fall 2023-2024 Term Project.
-This project analyzes my personal transportation data using Martı scooters, focusing on the trade-off between time savings and financial costs compared to walking. I will be using the database of my Martı account which includes the distances, times and prices of each ride between 2020 and 2024
+This project analyzes my personal transportation data using Martı scooters, focusing on the trade-off between time savings and financial costs compared to walking. I will be using the database of my Martı account which includes the distances, times and prices of each ride between 2020 and 2024.
 
 ## Table of Contents
 1-Motivation
