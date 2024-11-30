@@ -19,14 +19,13 @@ This project analyzes my personal transportation data using Martı scooters, foc
   * Time Saved Using Scooters
   * Cost Analysis of Scooter Usage
   * Walking vs. Scooter Comparisons
-6-Findings
-
-7-Limitations
+    
+6-Limitations
 
 
 ## Motivation
 
-Transportation is an essential part of daily life, and finding efficient ways to travel can have significant impacts on both time and money. With Martı scooters becoming a popular mode of transportation in urban areas, this project aims to analyze whether using scooters instead of walking is a cost-efficient and time-saving option. The goal is to quantify the time saved by using scooters and evaluate the associated financial costs.
+Transportation is an essential part of daily life, and finding efficient ways to travel can have significant impacts on both time and money. With Martı scooters becoming a popular mode of transportation in urban areas, this project aims to analyze whether using scooters instead of walking is a cost-efficient and time-saving option. The goal is to quantify the time saved by using scooters and evaluate the associated financial costs. I will try to prove "Martı scooter usage reduced my daily transportation time but proved to be a more expensive option compared to walking."
 
 ## Data Source
 I am using two primary data sources:
@@ -98,22 +97,6 @@ The analysis will focus on the following key questions:
     Cost per time saved (₺/min) = Scooter Cost(₺) / Time Saved(min)
 ​
  * Identify whether scooter usage is justified for specific distances.
-
-## Findings
-
-1- Time Efficiency:
-
- * Martı scooters significantly reduce travel time, especially for distances over 1 kilometer.
- * On average, scooters saved me X minutes per ride compared to walking.
-
-2- Financial Cost:
-
- * Scooter rides are notably more expensive than walking, with an average cost of Y₺/km.
- * The cost per minute saved increases for shorter rides, making scooters less cost-efficient for short distances.
-
-3- Daily Behavior:
-
- * Scooter usage correlates with a reduction in daily walking distances.
 
 ## Limitations
 
