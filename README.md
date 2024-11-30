@@ -23,7 +23,6 @@ This project analyzes my personal transportation data using Martı scooters, foc
 
 7-Limitations
 
-8-Plan
 
 ## Motivation
 
@@ -128,6 +127,5 @@ The analysis will focus on the following key questions:
  * As this analysis is based on personal transportation data, the findings may not generalize to other users.
  * The project does not account for environmental or health benefits of walking
 
-## Plan
 
 
